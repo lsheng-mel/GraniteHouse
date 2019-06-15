@@ -23,7 +23,9 @@
                 @productType.name
             </td>
             <td class="col-lg-4">
-                EDIT | DETAILS | DELETE
+                <button class="btn btn-primary" asp-action="Edit"><i class="fas fa-edit"></i></button>
+                <button class="btn btn-success" asp-action="Details"><i class="fas fa-list"></i></button>
+                <button class="btn btn-danger" asp-action="Delete"><i class="fas fa-trash-alt"></i></button>
             </td>
         </tr>
     }
