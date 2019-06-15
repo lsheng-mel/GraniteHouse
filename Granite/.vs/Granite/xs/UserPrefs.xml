@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A59C73EF-6EE7-47D4-A02D-0DE64096FFCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Granite/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Granite/Controllers/HomeController.cs" Line="15" Column="27" />
+      <File FileName="Granite/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Granite/Views/Shared/_Layout.cshtml" Line="18" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Granite" expanded="True">
+            <Node name="Granite" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Granite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

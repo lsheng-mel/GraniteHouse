@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{A59C73EF-6EE7-47D4-A02D-0DE64096FFCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Granite/data/DbInitializer.cs">
+    <Files>
+      <File FileName="Granite/Controllers/HomeController.cs" Line="31" Column="1" />
+      <File FileName="Granite/Views/Home/Index.cshtml" Line="3" Column="2" />
+      <File FileName="Granite/Views/Shared/_Layout.cshtml" Line="34" Column="70" />
+      <File FileName="Granite/Models/ProductType.cs" Line="13" Column="2" />
+      <File FileName="Granite/Program.cs" Line="17" Column="13" />
+      <File FileName="Granite/data/GraniteHouseContext.cs" Line="17" Column="71" />
+      <File FileName="Granite/Controllers/ProductTypeController.cs" Line="25" Column="1" />
+      <File FileName="Granite/Startup.cs" Line="36" Column="66" />
+      <File FileName="Granite/appsettings.Development.json" Line="3" Column="99" />
+      <File FileName="Granite/appsettings.json" Line="3" Column="23" />
+      <File FileName="Granite/Views/ProductType/Index.cshtml" Line="7" Column="18" />
+      <File FileName="Granite/data/DbInitializer.cs" Line="4" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraniteHouse" expanded="True">
+            <Node name="Granite" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="data" expanded="True">
+                <Node name="DbInitializer.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="ProductType" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Granite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
