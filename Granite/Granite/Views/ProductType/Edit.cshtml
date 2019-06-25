@@ -1,0 +1,26 @@
+﻿@model Granite.Models.ProductType
+
+@{
+    ViewData["Title"] = "Edit Product Type";
+}
+
+<br />
+<div>
+    <a href="/ProductType">Back</a>
+</div>
+
+<div>
+    <h1>Edit Product Type</h1>
+</div>
+
+<div>
+    <form asp-action="Edit" method="post">
+        <div class="form-group">
+            <label asp-for="Name" class="control-label">Product Name</label>
+            <input asp-for="Name" class="form-control" value="@Model.Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Apply</button>
+    </form>
+</div>

@@ -1,0 +1,24 @@
+﻿@model Granite.Models.ProductType
+
+@{
+    ViewData["Title"] = "View Details";
+}
+
+<br />
+<div>
+    <a href="/ProductType">Back</a>
+</div>
+
+<div>
+    <h1>View Product Details</h1>
+</div>
+
+<div>
+    <form>
+        <div class="form-group">
+            <label asp-for="Name" class="control-label">Product Name</label>
+            <input asp-for="Name" class="form-control" value="@Model.Name" disabled="disabled" />
+        </div>
+        <br />
+    </form>
+</div>

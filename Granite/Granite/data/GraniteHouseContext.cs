@@ -14,7 +14,7 @@ namespace Granite.data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<ProductType>().ToTable("ProductType");
+            modelBuilder.Entity<ProductType>().ToTable("ProductTypes");
         }
     }
 }
